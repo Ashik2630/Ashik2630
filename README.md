@@ -10,8 +10,7 @@
 
 ###
 
-<h1 align="left">Hey 👋 I'm Ashkur Rahman?</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi,+I+am+MD+ASHIKUR+RAHMAN;Front-End+Developer;Software+Engineer" />
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=52535a&center=true&vCenter=true&width=800&lines=Hi,+I+am+MD+ASHIKUR+RAHMAN;Front-End+Developer;Software+Engineer" />
 
 ###
 
