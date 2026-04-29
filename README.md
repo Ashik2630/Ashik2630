@@ -8,7 +8,9 @@
   <img height="300" src="https://i.ibb.co.com/G4qqVy81/Black-Modern-Personal-Linked-In-Banner.png"  /> <br>
 </div>
 
-<h2 align="left">🚀 About Me</h2>
+
+ <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=fdfcfc&center=true&vCenter=true&width=800&lines=Hi,+I+am+MD+ASHIKUR+RAHMAN;Front-End+Developer;Software+Engineer" />
+ <h2 align="left">🚀 About Me</h2>
 
 ###
 
