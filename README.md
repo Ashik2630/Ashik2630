@@ -11,30 +11,7 @@
 ###
 
 <h1 align="left">Hey 👋 I'm Ashkur Rahman?</h1>
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 800 120"
-     width="800px" height="120px">
-
-  <text x="50%" y="30%" text-anchor="middle" font-size="28" fill="#00F7FF">
-    Hi, I am MD SHANTO SHARKER
-  </text>
-
-  <text x="50%" y="60%" text-anchor="middle" font-size="22" fill="#00F7FF">
-    Front-End Developer
-  </text>
-
-  <text x="50%" y="90%" text-anchor="middle" font-size="22" fill="#00F7FF">
-    Software Engineer
-  </text>
-
-</svg>
-
-</div>
-###
-
-<p align="left">I am a Fontent Dovlpoer</p>
+<img src="https://camo.githubusercontent.com/6d84f5793009aa838a71756de2eebe4759aaf8844b681dbe5cf4ffd2005c6a04/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3730302673697a653d33322670617573653d3132303026636f6c6f723d3030463746462663656e7465723d74727565267643656e7465723d747275652677696474683d383030266c696e65733d48692c2b492b616d2b4d442b5348414e544f2b534841524b45523b46726f6e742d456e642b446576656c6f7065723b536f6674776172652b456e67696e656572" alt="Typing Animation" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=32&amp;pause=1200&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi,+I+am+MD+SHANTO+SHARKER;Front-End+Developer;Software+Engineer" style="max-width: 100%;">
 
 ###
 
