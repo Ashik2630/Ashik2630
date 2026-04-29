@@ -89,11 +89,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api](https://github.com/Ashik2630/Ashik2630)?username=Ashik2630&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Ashik2630&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashik2630&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="220" alt="GitHub Stats" />
+
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Ashik2630&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik2630&layout=compact&theme=dracula" height="180" alt="Top Languages" />
+
+</div>
 ###
 
 <img src="https://raw.githubusercontent.com/Ashik2630/Ashik2630/output/snake.svg" alt="Snake animation" />
