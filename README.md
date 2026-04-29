@@ -9,7 +9,7 @@
 </div>
 
 
- <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=fdfcfc&center=true&vCenter=true&width=800&lines=Hi,+I+am+ASHIKUR+RAHMAN;Front-End+Developer;MERN Stack Developer;Software+Engineer" />
+ <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=fdfcfc&center=true&vCenter=true&width=800&lines=Hi,+I+am+ASHIKUR+RAHMAN;Front-End+Developer;MERN+Stack+ Developer;Software+Engineer" />
 
 ###
 
