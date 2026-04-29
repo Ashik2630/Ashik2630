@@ -92,17 +92,9 @@
 
   <!-- GitHub Stats -->
    <img src="https://github-readme-stats.vercel.app/api?username=Ashik2630&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
-
   <br><br>
-
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Ashik2630&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik2630&layout=compact&theme=dracula" height="180" alt="Top Languages" />
-
 </div>
 ###
 
