@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Ashik2630/Ashik2630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ashik2630/Ashik2630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Hi There
+
