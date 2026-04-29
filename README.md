@@ -11,7 +11,68 @@
 ###
 
 <h1 align="left">Hey 👋 I'm Ashkur Rahman?</h1>
+<div align="center">
 
+<svg xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 800 50"
+    width="800px" height="50px">
+    <path id="path0">
+        <animate attributeName="d"
+            begin="0s;d2.end"
+            dur="6200ms"
+            values="m0,25 h0 ; m0,25 h800 ; m0,25 h800 ; m0,25 h0"
+            keyTimes="0;0.64516129032258;0.83870967741935;1" />
+    </path>
+    <text font-family="Fira Code, monospace"
+        fill="#00F7FF"
+        font-size="32"
+        text-anchor="middle"
+        x="50%"
+        dominant-baseline="middle">
+        <textPath xlink:href="#path0">
+            Hi, I am MD SHANTO SHARKER
+        </textPath>
+    </text>
+    <path id="path1">
+        <animate id="d1"
+            attributeName="d"
+            begin="d0.end"
+            dur="6200ms"
+            values="m0,25 h0 ; m0,25 h800 ; m0,25 h800 ; m0,25 h0"
+            keyTimes="0;0.64516129032258;0.83870967741935;1" />
+    </path>
+    <text font-family="Fira Code, monospace"
+        fill="#00F7FF"
+        font-size="32"
+        text-anchor="middle"
+        x="50%"
+        dominant-baseline="middle">
+        <textPath xlink:href="#path1">
+            Front-End Developer
+        </textPath>
+    </text>
+    <path id="path2">
+        <animate id="d2"
+            attributeName="d"
+            begin="d1.end"
+            dur="6200ms"
+            values="m0,25 h0 ; m0,25 h800 ; m0,25 h800 ; m0,25 h0"
+            keyTimes="0;0.64516129032258;0.83870967741935;1" />
+    </path>
+    <text font-family="Fira Code, monospace"
+        fill="#00F7FF"
+        font-size="32"
+        text-anchor="middle"
+        x="50%"
+        dominant-baseline="middle">
+        <textPath xlink:href="#path2">
+            Software Engineer
+        </textPath>
+    </text>
+
+</svg>
+
+</div>
 ###
 
 <p align="left">I am a Fontent Dovlpoer</p>
