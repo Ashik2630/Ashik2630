@@ -26,9 +26,9 @@
 
 📍 **Location: Dhaka, Bangladesh 
 
-📧 **Email:** [`YOUR_EMAIL@example.com`](mailto:ashik426370@gmail.com) 
+📧 **Email:mailto:ashik426370@gmail.com 
 
-📱 **Phone:** [`+880 1XXX-XXXXXX`](tel:+8801983767817) 
+📱 **Phone:tel:+8801983767817
 
 </div>
 
