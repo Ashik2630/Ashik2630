@@ -24,11 +24,11 @@
 
 <div align="center">
 
-📍 **Location:** `YOUR_CITY`, Bangladesh *(replace YOUR_CITY with your city, e.g. Dhaka)*
+📍 **Location: Dhaka, Bangladesh 
 
-📧 **Email:** [`YOUR_EMAIL@example.com`](mailto:YOUR_EMAIL@example.com) *(replace with your professional email)*
+📧 **Email:** [`YOUR_EMAIL@example.com`](mailto:ashik426370@gmail.com) 
 
-📱 **Phone:** [`+880 1XXX-XXXXXX`](tel:+8801XXXXXXXXX) *(replace with your contact number)*
+📱 **Phone:** [`+880 1XXX-XXXXXX`](tel:+8801983767817) 
 
 </div>
 
@@ -184,8 +184,7 @@ Currently **open to internship and junior developer opportunities** where I can 
 | 🎯 **Focus** | Front-End & MERN Stack Development |
 | 🌍 **Based in** | Bangladesh |
 | 💼 **Status** | Available for opportunities |
-| 📄 **Resume** | [Download CV](https://YOUR_CV_LINK) *(replace with your CV link, or remove this row)* |
-
+| 📄 **Resume** | [Download CV](https://drive.google.com/file/d/1gBCbh_YeG2qHWWaydx6qmCsFxT7ssi8j/view?usp=sharing) 
 > 💡 *Fun fact: I enjoy breaking down complex UI problems into clean, reusable components — the same mindset I bring to every project.*
 
 ---
